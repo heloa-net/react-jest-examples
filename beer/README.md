@@ -5,6 +5,7 @@ Example from Dave Ceddia's [tutorial](https://semaphoreci.com/community/tutorial
 Jest is used as the assertion library and test runner instead of Chai and Mocha respectively.
 
 ### How to run 
+`npm install` to install dependencies
 
 `npm test` to run the tests with Jest.
 
