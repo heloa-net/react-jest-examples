@@ -9,4 +9,4 @@ Jest is used as the assertion library and test runner instead of Chai and Mocha 
 
 `npm test` to run the tests with Jest.
 
-`quik` to run the server and see the component.
+`npm run` to run the server with [Quik](https://github.com/satya164/quik) and see the component.

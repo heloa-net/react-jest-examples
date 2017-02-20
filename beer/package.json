@@ -4,6 +4,7 @@
   "description": "react-jest-example-beer",
   "main": "index.js",
   "scripts": {
+    "run": "quik",
     "test": "jest"
   },
   "repository": {
