@@ -1,6 +1,6 @@
 # Beer example
 
-From Dave Ceddia's [tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
+Example from Dave Ceddia's [tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
 
 Jest is used as the assertion library and test runner instead of Chai and Mocha respectively.
 
